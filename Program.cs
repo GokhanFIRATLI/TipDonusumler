@@ -61,7 +61,7 @@ Console.WriteLine("****Parse Metodu****");
 
 ParseMethod();
 
-public static void ParseMethod()
+static void ParseMethod()
   {
    string metin1 = "10";
    string metin2 = "10.25";
